@@ -30,7 +30,7 @@ servicecomb:
 # TODO: 使用微服务引擎专业版部署之前，需要配置 AK/SK
   credentials:
     akskEnabled: true
-    accessKey: UWYMBUU5T9XLDOLNJGMG
-    secretKey: ffbeHC74w0qa2CRMkUKbeuV3JRSFMpvfbjBWjeKH
+    accessKey: 5BIHOL5HOLRGYCUGYUYP
+    secretKey: z82G349SSkGnhFZeZrOHWXAfPOOHDuUP7Boer4Hg
     akskCustomCipher: default
     project: cn-north-4
