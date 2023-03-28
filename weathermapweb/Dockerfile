@@ -1,4 +1,5 @@
 From swr.ap-southeast-2.myhuaweicloud.com/huawei-cse/nodejs:1.0.0
+#FROM swr.cn-north-1.myhuaweicloud.com/codeci/special_base_image:centos7-base-1.0.2
 
 RUN ln -sf /usr/share/zoneinfo/Asia/Shanghai /etc/localtime && \
     echo "Asia/Shanghai" > /etc/timezone
